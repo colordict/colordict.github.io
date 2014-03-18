@@ -1,0 +1,10 @@
+StarDict's dict ifo file
+version=2.4.2
+wordcount=177842
+idxfilesize=3528868
+bookname=XDICT英汉辞典
+author=伏建军
+email=fujianjun@163.net or lcowi@bj.col.com.cn
+description=伏建军于1998年6月5日发布的XDICT，王炜转换到stardict1.33+，胡正再将其转换到stardict2。
+date=2003.05.13
+sametypesequence=tm

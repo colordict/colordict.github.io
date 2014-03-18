@@ -1,0 +1,11 @@
+StarDict's dict ifo file
+version=2.4.2
+wordcount=31992
+idxfilesize=504283
+bookname=CEDICT汉英辞典
+author=Paul Denisowski
+email=cedict@chinesetools.com
+website=http://www.mandarintools.com/cedict.html
+description=胡正制作。
+date=2006.5.27
+sametypesequence=ym
